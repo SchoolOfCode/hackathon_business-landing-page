@@ -16,4 +16,6 @@ You'll need to go through the UI/UX process we've been examining this week:
 
 Remember to iterate - first, get your users in mind and design looking good. Then build an MVP version - what is the [quickest way you can deliver value](https://www.planview.com/resources/articles/lean-methodology/) and start getting insight? - and then, if you have time, you can consider adding more features.
 
-At the end of the day, when you present what you've created, be sure to also show your planning process and how you crafted your UX and UI.
+Really focus on planning, wireframe, design and getting that right, really digging in and spending time in that process. Then when you’re fully happy with what you’ve planned out, you can start creating it with HTML and CSS.
+
+When you’re presenting, our main requirement today is that you can articulate the choices you made with your design and why, keeping the user at the center. Your core requirement is well thought out user stories, user personas, low- and high-fidelity wireframes, and any other information that’s relevant to your plan for your design, so that should be your main focus before iterating with the HTML and CSS.
