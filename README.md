@@ -1,4 +1,4 @@
-# Hackathon - Use your UI/UX skills to design a business landing page
+# Hackathon - Use your UI/UX skills to design your bootcamp landing page
 
 For this hackathon, you'll be using the bootcamp idea we brainstormed during the week.
 
